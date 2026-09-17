@@ -1,0 +1,15 @@
+{
+	"name": "dff-omproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "364db419-e4fb-4cba-8448-b868c95e8b87",
+		"tenantId": "bae4d32a-e698-483d-a0fc-0981403989c4"
+	}
+}
